@@ -16,6 +16,12 @@
             <Button>
                 Игровой мапхак
             </Button>
+            <Button>
+                Внешний мапхак
+            </Button>
+            <Button>
+                Список героев
+            </Button>
         </StackPanel>
 
         <Grid Grid.Row="1">
