@@ -22,6 +22,9 @@
             <Button>
                 Список героев
             </Button>
+            <Button>
+                О программе
+            </Button>
         </StackPanel>
 
         <Grid Grid.Row="1">
