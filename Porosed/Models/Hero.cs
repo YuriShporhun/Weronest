@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Porosed.Models
 {
-    internal class Hero
+    public class Hero
     {
+        public int Attack { get; set; }
+        public int Defence { get; set; }
+        public int MagicPower { get; set; }
+        public int Knowledge { get; set; }
     }
 }
