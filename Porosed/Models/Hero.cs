@@ -30,5 +30,7 @@ namespace Porosed.Models
         /// Знания
         /// </summary>
         public int Knowledge { get; set; }
+
+        public HeroClass Class { get; set; }
     }
 }

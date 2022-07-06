@@ -9,6 +9,6 @@ namespace Porosed.Viewmodels
 {
     public class MainWindowViewModel
     {
-        List<Hero> Heroes = new List<Hero>();
+        List<Hero> Heroes = new();
     }
 }
