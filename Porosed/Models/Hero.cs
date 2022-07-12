@@ -31,6 +31,14 @@ namespace Porosed.Models
         /// </summary>
         public int Knowledge { get; set; }
 
+        /// <summary>
+        /// Класс героя
+        /// </summary>
         public HeroClass Class { get; set; }
+
+        /// <summary>
+        /// Имя героя
+        /// </summary>
+        public HeroName Name { get; set; }
     }
 }
