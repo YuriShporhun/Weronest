@@ -40,5 +40,10 @@ namespace Porosed.Models
         /// Имя героя
         /// </summary>
         public HeroName Name { get; set; }
+
+        /// <summary>
+        /// Список скиллов
+        /// </summary>
+        public List<Skill> Skills { get; set; }
     }
 }
